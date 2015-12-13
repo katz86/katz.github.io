@@ -1,0 +1,21 @@
+
+nav ul li{
+    display: inline;
+}
+#content {
+    background-color: transparent;
+}
+div .nav2 li{
+    display:inline;
+}
+#content img{
+    float: left;
+    margin-right:50px;
+}
+​
+#content h4 {
+    clear:both;
+}
+article{
+    text-align: center;
+}

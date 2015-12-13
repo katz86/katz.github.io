@@ -1,0 +1,32 @@
+
+body{color:black
+	;}
+
+header {
+	color: black;
+	background: ;
+	font-size: 25px;
+}
+ 
+ div {float: right;
+ }
+
+	h4 {font-size: 20px
+	}
+ 
+nav ul li {display: inline;
+font-size: 20px}
+
+#tab {color: red;
+display: inline;
+}
+
+ #content {background-color: transparent;}
+}
+
+#content img {float: left;
+margin-right: 50px;}
+
+article{text-align: center;}
+
+#content h4 {clear: both;}
